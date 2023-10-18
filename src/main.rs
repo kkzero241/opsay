@@ -85,7 +85,7 @@ fn main() {
             println!("{}\n{}\n", name, backronym);
         }
         else {
-            println!("now loading\n{} mission\noperation:\n{}\n", name, backronym);
+            println!("now loading:\n{} mission\noperation:\n{}\n", name, backronym);
         }
         
         for i in &backronym_full {

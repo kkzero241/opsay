@@ -1,7 +1,7 @@
 # Opsay
 
 ```
-now loading
+now loading:
 opsay mission
 operation:
 o.p.s.a.y.
